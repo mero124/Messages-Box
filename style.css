@@ -1,0 +1,222 @@
+body {
+    background-color: rgb(74 144 226 / 1);
+}
+
+.container {
+    width: 450px;
+    height: 700px;
+    background-color: white;
+    margin: 250px auto;
+    position: relative;
+    border-radius: 15px;
+}
+
+.container .messeges {
+    position: absolute;
+    top: -2px;
+    left: 30px;
+    font-size: 25px;
+}
+
+.settings {
+    max-width: 10%;
+    position: absolute;
+    right: 6%;
+    top: 2%;
+}
+
+hr {
+    width: 86%;
+    top: 10%;
+    position: absolute;
+    left: 28px;
+    color: rgb(74 144 226 / 1);
+}
+
+.search {
+    position: relative;
+    width: 388px;
+    background-color: #cccccc3d;
+    top: 94px;
+    left: 30px;
+    height: 60px;
+}
+
+.search img  {
+    position: absolute;
+    max-width: 10%;
+    top: 10px;
+    left: 10px;
+}
+
+.search p {
+    position: absolute;
+    left: 55px;
+    top: -9px;
+    color: #bbb;
+    font-size: 25px;
+}
+
+.messege-1 {
+    width: 100%;
+    position: absolute;
+    top: 80px;
+}
+
+.messege-1 img {
+    width: 80px;
+    height: 80px;
+    max-width: 30%;
+    border-radius: 50%;
+    left: -3%;
+}
+
+.messege-1 h3 {
+    position: absolute;
+    left: 80px;
+    top: -12px;
+    font-size: 25px;
+}
+
+.messege-1 p {
+    position: absolute;
+    left: 80px;
+    top: 25px;
+    font-size: 19px;
+    color: black;
+}
+
+.messege-2 {
+    width: 100%;
+    position: absolute;
+    top: 180px;
+}
+
+.messege-2 img {
+    width: 80px;
+    height: 80px;
+    max-width: 30%;
+    border-radius: 50%;
+    left: -3%;
+}
+
+.messege-2 h3 {
+    position: absolute;
+    left: 80px;
+    top: -12px;
+    font-size: 25px;
+}
+
+.messege-2 p {
+    position: absolute;
+    left: 80px;
+    top: 25px;
+    font-size: 19px;
+    color: black;
+}
+
+.messege-3 {
+    width: 100%;
+    position: absolute;
+    top: 280px;
+}
+
+.messege-3 img {
+    width: 80px;
+    height: 80px;
+    max-width: 30%;
+    border-radius: 50%;
+    left: -3%;
+}
+
+.messege-3 h3 {
+    position: absolute;
+    left: 80px;
+    top: -12px;
+    font-size: 25px;
+}
+
+.messege-3 p {
+    position: absolute;
+    left: 80px;
+    top: 25px;
+    font-size: 19px;
+    color: black;
+}
+
+.messege-4 {
+    width: 100%;
+    position: absolute;
+    top: 380px;
+}
+
+.messege-4 img {
+    width: 80px;
+    height: 80px;
+    max-width: 30%;
+    border-radius: 50%;
+    left: -3%;
+}
+
+.messege-4 h3 {
+    position: absolute;
+    left: 80px;
+    top: -12px;
+    font-size: 25px;
+}
+
+.messege-4 p {
+    position: absolute;
+    left: 80px;
+    top: 25px;
+    font-size: 19px;
+    color: black;
+}
+
+.messege-5 {
+    width: 100%;
+    position: absolute;
+    top: 480px;
+}
+
+.messege-5 img {
+    width: 80px;
+    height: 80px;
+    max-width: 30%;
+    border-radius: 50%;
+    left: -3%;
+}
+
+.messege-5 h3 {
+    position: absolute;
+    left: 80px;
+    top: -12px;
+    font-size: 25px;
+}
+
+.messege-5 p {
+    position: absolute;
+    left: 80px;
+    top: 25px;
+    font-size: 19px;
+    color: black;
+}
+
+.blue-icon {
+    position: relative;
+    width: 72px;
+    height: 71px;
+    max-width: 30%;
+    border-radius: 50%;
+    right: -334px;
+    background-color: rgb(74 144 226 / 1);
+    bottom: -547px;
+}
+
+.blue-icon img {
+    max-width: 70%;
+    left: 15%;
+    position: absolute;
+    top: 15%;
+}
+
